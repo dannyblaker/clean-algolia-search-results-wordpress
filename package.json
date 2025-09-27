@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algoliasearch": "^5.17.1",
+    "dotenv": "^16.4.7"
+  }
+}
